@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{F7BE989E-DEF8-46BD-87BF-26360D1E1427}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test_deploy/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test_deploy/Properties/launchSettings.json">
     <Files>
-      <File FileName="test_deploy/Startup.cs" Line="1" Column="1" />
+      <File FileName="test_deploy/Startup.cs" Line="48" Column="41" />
+      <File FileName="test_deploy/Properties/launchSettings.json" Line="25" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="test_deploy" expanded="True">
             <Node name="test_deploy" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.test__deploy FirstBuild="True" PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.ItemProperties.test__deploy PreferredExecutionTarget="/Applications/Yandex.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
